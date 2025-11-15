@@ -218,13 +218,13 @@ Actual REAL          30               970
 ## 📈 VISUALIZATIONS
 
 ### WordCloud - FAKE News
-![WordCloud Fake](visualizations/wordcloud_fake.png)
+![WordCloud Fake](fake.png)
 
 ### WordCloud - REAL News
-![WordCloud Real](visualizations/wordcloud_real.png)
+![WordCloud Real](real.png)
 
 ### Confusion Matrix
-![Confusion Matrix](visualizations/confusion_matrix.png)
+![Confusion Matrix](_conf.png)
 
 ---
 
@@ -282,20 +282,8 @@ Contributions are **welcome** and greatly appreciated! Here's how you can help:
 
 ---
 
-## 📝 LICENSE
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 👨‍💻 AUTHOR
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
 
 ## 🙏 ACKNOWLEDGMENTS
 
