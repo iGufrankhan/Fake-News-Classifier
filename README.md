@@ -217,14 +217,15 @@ Actual REAL          30               970
 
 ## 📈 VISUALIZATIONS
 
-### WordCloud - FAKE News
-![WordCloud Fake](fake.png)
 
-### WordCloud - REAL News
-![WordCloud Real](real.png)
+### WordCloud – FAKE News
+<img src="false.png" alt="WordCloud Fake" width="600"/>
+
+### WordCloud – REAL News
+<img src="true.png" alt="WordCloud Real" width="600"/>
 
 ### Confusion Matrix
-![Confusion Matrix](_conf.png)
+<img src="conf.png" alt="Confusion Matrix" width="600"/>
 
 ---
 
