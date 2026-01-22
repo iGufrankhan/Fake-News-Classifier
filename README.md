@@ -30,7 +30,7 @@ The dataset contains labeled news articles, with each entry classified as **FAKE
 
 **Sample Structure:**
 
-| Title                       | Text                                  | Label |
+| Title                       | Text                                 | Label |
 |-----------------------------|----------------------------------------|--------|
 | Donald Trump Sends Out...   | Donald Trump has reportedly sent...   | FAKE   |
 | The economy is improving... | Reports indicate that the economy...  | REAL   |
